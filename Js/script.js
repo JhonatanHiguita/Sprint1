@@ -66,4 +66,3 @@ function calculoValor() {
     }
 }
 
-let form = document.getElementById('formCant');
